@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Javier Pestano ======================================================================================================================================= 
+
+Web Developer, Project Manager and Scrum Master
+-----------------------------------------------  
+
+* 🌍  I'm based in Barcelona
+* 🚀  I'm currently working on [Acierto.com](http://www.acierto.com)
+* 🧠  I'm currently learning More about Angular Framework, Scrum and AWS
 
 <!--
 **JavierPestanoRon/JavierPestanoRon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
