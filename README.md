@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Javier Pestano ======================================================================================================================================= 
+# Hi, my name is Javier Pestano
 
-Web Developer, Project Manager and Scrum Master
------------------------------------------------  
+
+## Web Developer, Project Manager and Scrum Master 
 
 * 🌍  I'm based in Barcelona
 * 🚀  I'm currently working on [Acierto.com](http://www.acierto.com)
@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Certifications
 
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/c8a8d49d-901a-418f-adac-8a9f782d779d" title="Professional Scrum Master™ I (PSM I)"><img src="https://images.credly.com/size/80x80/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" alt="Professional Scrum Master™ I (PSM I)" width="80" height="80"></a>
