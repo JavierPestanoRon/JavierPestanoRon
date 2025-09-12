@@ -19,7 +19,6 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: javier-pestano-ron
-          BADGE_SIZE: 120  # this controls <img width/height>, but not the source
 
       - name: Fix badge image URLs
         run: |
