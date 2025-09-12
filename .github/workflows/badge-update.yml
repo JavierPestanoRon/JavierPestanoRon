@@ -2,19 +2,33 @@ name: Update Credly Badges
 
 on:
   schedule:
-    # Runs at 2am UTC
     - cron: "0 2 * * *"
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  workflow_dispatch:
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write
   
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        with:       
-          CREDLY_USER: javier-pestano-ron # optional, but default will use the same from github
-          BADGE_SIZE: 100
+        with:
+          CREDLY_USER: javier-pestano-ron
+          BADGE_SIZE: 120  # this controls <img width/height>, but not the source
+
+      - name: Fix badge image URLs
+        run: |
+          sed -i 's|/size/80x80||g' README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Fix badge image URLs to full size" || echo "No changes to commit"
+          git push
