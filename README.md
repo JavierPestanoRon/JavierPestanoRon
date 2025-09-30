@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ## Certifications
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/2d23045f-ed15-4534-a859-f094019ece7d" title="Data Landscape of GenAI for Project Managers"><img src="https://images.credly.com/size/120x120/images/8eca8083-1281-4483-8608-03372739e1e7/blob" alt="Data Landscape of GenAI for Project Managers" width="120" height="120"></a>
 <a href="https://www.credly.com/badges/fb3c28e1-8ce2-4579-8cbb-b71824d4b6b1" title="Talking to AI: Prompt Engineering for Project Managers"><img src="https://images.credly.com/size/120x120/images/aa42e8b5-b36d-4b8c-abbe-c6a6f51fd7d9/blob" alt="Talking to AI: Prompt Engineering for Project Managers" width="120" height="120"></a>
 <a href="https://www.credly.com/badges/8c008385-6c62-4aa2-aeb4-9a956c8cbc6d" title="Generative AI Overview for Project Managers"><img src="https://images.credly.com/size/120x120/images/f5c094f4-e07c-44e0-b685-4ffd8980fd53/blob" alt="Generative AI Overview for Project Managers" width="120" height="120"></a>
 <a href="https://www.credly.com/badges/e56157b1-25af-41bb-ad67-d10a7bade342" title="Practical Application of Gen AI for Project Managers"><img src="https://images.credly.com/size/120x120/images/0c4e1dd5-5d3c-4974-9720-e09af4302e5e/blob" alt="Practical Application of Gen AI for Project Managers" width="120" height="120"></a>
